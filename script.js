@@ -14,7 +14,7 @@ for (i = 0; i <= len - 1; i++) {
     U++;
   }
   if (res[i] == "L") {
-    // for each letter in the array, if it matches, decrement it.
+    // for each letter in the array, if it matches,decrement it.
     R--;
   }
   if (res[i] == "D") {
